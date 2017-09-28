@@ -1,0 +1,2 @@
+Participant - An individual that has or is currently interacting with the application through chat.
+Client - Pays for leads.
